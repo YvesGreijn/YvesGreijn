@@ -1,4 +1,4 @@
-### Hi there, appreicate you taking the time to visit my Github page 
+### Hi there, appreciate you taking the time to visit my Github page 
 
 - 🔭 I’m currently working on Leadership hiring at Beat (Daimler AG - FREE NOW Group)
 - 🌱 I’m currently learning how to master fatherhood (1 month in, it's a challenge)
