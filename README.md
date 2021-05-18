@@ -18,7 +18,7 @@
         
 
 - Miro engineering blog: https://medium.com/miro-engineering
-- Beat Github repo's: https://github.com/miroapp
+- (Some of) Miro's Github repo's: https://github.com/miroapp
 
 --
 -
