@@ -1,6 +1,6 @@
 ### Hi there, appreciate you taking the time to visit my Github page 
 
-- ~~ Hiring senior Software Engineers for TravelPerk (London / BCN focus)
+- ~~ Hiring senior Software Engineers for TravelPerk (London / Barcelona / Berlin focus)
 - ~ Recently hired Poki's Head of Product 
 - 🔭 Last long project was my 3y stint working on Executive & Leadership hiring at Miro (Accel / ICONIQ). Ever since mainly working retainers for reputable tech companies. 
 - 🌱 I’m currently learning how to master fatherhood (update: learning, not yet mastered. Doubtful I'll ever get there). 
